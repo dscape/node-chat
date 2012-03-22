@@ -11,9 +11,9 @@
   "engines": {
     "node": "*"
   },
-  "subdomain": "bazbazfoo",
+  "subdomain": "chatwithme",
   "scripts": {
     "start": "/server/server.js"
   },
-  "name": "foofoobaz"
+  "name": "ihaveadifferentnamefromsubdomain"
 }
