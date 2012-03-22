@@ -1,7 +1,7 @@
 {
   "description": "A simple chat application",
-  "version": "0.0.2",
-  "author": "General Assembly <info@generalassemb.ly>",
+  "version": "0.0.1",
+  "author": "Genera <info@genemb.ly>",
   "dependencies": {
     "socket.io": "*",
     "node-static": "*",
@@ -11,9 +11,9 @@
   "engines": {
     "node": "*"
   },
-  "subdomain": "yzx",
+  "subdomain": "somerandomdomain",
   "scripts": {
     "start": "/server/server.js"
   },
-  "name": "testd7"
+  "name": "testdddd"
 }
