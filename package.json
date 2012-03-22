@@ -11,9 +11,9 @@
   "engines": {
     "node": "*"
   },
-  "subdomain": "somerandomdomain",
+  "subdomain": "somerandomdon",
   "scripts": {
     "start": "/server/server.js"
   },
-  "name": "testdddd"
+  "name": "testd"
 }
