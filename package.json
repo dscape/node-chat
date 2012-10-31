@@ -1,7 +1,7 @@
 {
   "description": "A simple chat application",
   "version": "0.0.1",
-  "author": "Genera <info@genemb.ly>",
+  "author": "fuuu",
   "dependencies": {
     "socket.io": "*",
     "node-static": "*",
@@ -9,11 +9,11 @@
     "uglify-js": "*"
   },
   "engines": {
-    "node": "*"
+    "node": "0.8.x"
   },
-  "subdomain": "chatwithme",
+  "subdomain": "comechatwithmeaway",
   "scripts": {
-    "start": "/server/server.js"
+    "start": "node /server/server.js"
   },
   "name": "ihaveadifferentnamefromsubdomain"
 }
