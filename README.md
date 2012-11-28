@@ -1,3 +1,4 @@
+[![deploy status](http://webops.jit.su/dscape-testing/node-chat.png)](http://webops.jit.su#/dscape-testing/node-chat)
 
 ## Synopsis
 This is a real-time chat server that uses socket.io
